@@ -37,7 +37,7 @@
 35,André Fufuca,PP,dep.andrefufuca@camara.leg.br
 36,André Janones,AVANTE,dep.andrejanones@camara.leg.br
 37,Angela Amin,PP,dep.angelaamin@camara.leg.br
-38,Antônia Lúcia,PL,dep.antonialucia@camara.leg.br
+38,Antônia Lúcia,REPUBLICANOS,dep.antonialucia@camara.leg.br
 39,Antonio Brito,PSD,dep.antoniobrito@camara.leg.br
 40,Arlindo Chinaglia,PT,dep.arlindochinaglia@camara.leg.br
 41,Arnaldo Jardim,CIDADANIA,dep.arnaldojardim@camara.leg.br
@@ -158,356 +158,357 @@
 156,Eli Borges,PL,dep.eliborges@camara.leg.br
 157,Eli Corrêa Filho,UNIÃO,dep.elicorreafilho@camara.leg.br
 158,Elias Vaz,PSB,dep.eliasvaz@camara.leg.br
-159,Elmar Nascimento,UNIÃO,dep.elmarnascimento@camara.leg.br
-160,Emanuel Pinheiro Neto,MDB,dep.emanuelpinheironeto@camara.leg.br
-161,Emidinho Madeira,PL,dep.emidinhomadeira@camara.leg.br
-162,Enio Verri,PT,dep.enioverri@camara.leg.br
-163,Enrico Misasi,MDB,dep.enricomisasi@camara.leg.br
-164,Erika Kokay,PT,dep.erikakokay@camara.leg.br
-165,Eros Biondini,PL,dep.erosbiondini@camara.leg.br
-166,Euclydes Pettersen,PSC,dep.euclydespettersen@camara.leg.br
-167,Evair Vieira de Melo,PP,dep.evairvieirademelo@camara.leg.br
-168,Expedito Netto,PSD,dep.expeditonetto@camara.leg.br
-169,Fábio Henrique,UNIÃO,dep.fabiohenrique@camara.leg.br
-170,Fábio Ramalho,MDB,dep.fabioramalho@camara.leg.br
-171,Fabio Reis,PSD,dep.fabioreis@camara.leg.br
-172,Fabio Schiochet,UNIÃO,dep.fabioschiochet@camara.leg.br
-173,Fábio Trad,PSD,dep.fabiotrad@camara.leg.br
-174,Fausto Pinato,PP,dep.faustopinato@camara.leg.br
-175,Felício Laterça,PP,dep.feliciolaterca@camara.leg.br
-176,Felipe Carreras,PSB,dep.felipecarreras@camara.leg.br
-177,Felipe Francischini,UNIÃO,dep.felipefrancischini@camara.leg.br
-178,Felipe Rigoni,UNIÃO,dep.feliperigoni@camara.leg.br
-179,Félix Mendonça Júnior,PDT,dep.felixmendoncajunior@camara.leg.br
-180,Fernanda Melchionna,PSOL,dep.fernandamelchionna@camara.leg.br
-181,Fernando Coelho Filho,UNIÃO,dep.fernandocoelhofilho@camara.leg.br
-182,Fernando Monteiro,PP,dep.fernandomonteiro@camara.leg.br
-183,Fernando Rodolfo,PL,dep.fernandorodolfo@camara.leg.br
-184,Filipe Barros,PL,dep.filipebarros@camara.leg.br
-185,Flávia Arruda,PL,dep.flaviaarruda@camara.leg.br
-186,Flávia Morais,PDT,dep.flaviamorais@camara.leg.br
-187,Flaviano Melo,MDB,dep.flavianomelo@camara.leg.br
-188,Flávio Nogueira,PT,dep.flavionogueira@camara.leg.br
-189,Francisco Jr.,PSD,dep.franciscojr@camara.leg.br
-190,Franco Cartafina,PP,dep.francocartafina@camara.leg.br
-191,Fred Costa,PATRIOTA,dep.fredcosta@camara.leg.br
-192,Frei Anastacio Ribeiro,PT,dep.freianastacioribeiro@camara.leg.br
-193,Gelson Azevedo,PL,dep.gelsonazevedo@camara.leg.br
-194,Genecias Noronha,PL,dep.geneciasnoronha@camara.leg.br
-195,General Girão,PL,dep.generalgirao@camara.leg.br
-196,General Peternelli,UNIÃO,dep.generalpeternelli@camara.leg.br
-197,Geninho Zuliani,UNIÃO,dep.geninhozuliani@camara.leg.br
-198,Geovania de Sá,PSDB,dep.geovaniadesa@camara.leg.br
-199,Gervásio Maia,PSB,dep.gervasiomaia@camara.leg.br
-200,Giacobo,PL,dep.giacobo@camara.leg.br
-201,Gil Cutrim,REPUBLICANOS,dep.gilcutrim@camara.leg.br
-202,Gilberto Abramo,REPUBLICANOS,dep.gilbertoabramo@camara.leg.br
-203,Gilberto Nascimento,PSC,dep.gilbertonascimento@camara.leg.br
-204,Gilson Marques,NOVO,dep.gilsonmarques@camara.leg.br
-205,Giovani Cherini,PL,dep.giovanicherini@camara.leg.br
-206,Giovani Feltes,MDB,dep.giovanifeltes@camara.leg.br
-207,Glauber Braga,PSOL,dep.glauberbraga@camara.leg.br
-208,Glaustin da Fokus,PSC,dep.glaustindafokus@camara.leg.br
-209,Gleisi Hoffmann,PT,dep.gleisihoffmann@camara.leg.br
-210,Gonzaga Patriota,PSB,dep.gonzagapatriota@camara.leg.br
-211,Greyce Elias,AVANTE,dep.greyceelias@camara.leg.br
-212,Guiga Peixoto,PSC,dep.guigapeixoto@camara.leg.br
-213,Guilherme Mussi,PP,dep.guilhermemussi@camara.leg.br
-214,Gurgel,PL,dep.gurgel@camara.leg.br
-215,Gustavo Fruet,PDT,dep.gustavofruet@camara.leg.br
-216,Gustinho Ribeiro,REPUBLICANOS,dep.gustinhoribeiro@camara.leg.br
-217,Gutemberg Reis,MDB,dep.gutembergreis@camara.leg.br
-218,Heitor Freire,UNIÃO,dep.heitorfreire@camara.leg.br
-219,Heitor Schuch,PSB,dep.heitorschuch@camara.leg.br
-220,Helder Salomão,PT,dep.heldersalomao@camara.leg.br
-221,Hélio Costa,PSD,dep.heliocosta@camara.leg.br
-222,Hélio Leite,UNIÃO,dep.helioleite@camara.leg.br
-223,Helio Lopes,PL,dep.heliolopes@camara.leg.br
-224,Henrique Fontana,PT,dep.henriquefontana@camara.leg.br
-225,Hercílio Coelho Diniz,MDB,dep.herciliocoelhodiniz@camara.leg.br
-226,Herculano Passos,REPUBLICANOS,dep.herculanopassos@camara.leg.br
-227,Hermes Parcianello,MDB,dep.hermesparcianello@camara.leg.br
-228,Hildo Rocha,MDB,dep.hildorocha@camara.leg.br
-229,Hiran Gonçalves,PP,dep.hirangoncalves@camara.leg.br
-230,Hugo Leal,PSD,dep.hugoleal@camara.leg.br
-231,Hugo Motta,REPUBLICANOS,dep.hugomotta@camara.leg.br
-232,Idilvan Alencar,PDT,dep.idilvanalencar@camara.leg.br
-233,Igor Kannário,UNIÃO,dep.igorkannario@camara.leg.br
-234,Igor Timo,PODE,dep.igortimo@camara.leg.br
-235,Isnaldo Bulhões Jr.,MDB,dep.isnaldobulhoesjr@camara.leg.br
-236,Ivan Valente,PSOL,dep.ivanvalente@camara.leg.br
-237,Jandira Feghali,PCdoB,dep.jandirafeghali@camara.leg.br
-238,Jaqueline Cassol,PP,dep.jaquelinecassol@camara.leg.br
-239,Jefferson Campos,PL,dep.jeffersoncampos@camara.leg.br
-240,Jerônimo Goergen,PP,dep.jeronimogoergen@camara.leg.br
-241,Jéssica Sales,MDB,dep.jessicasales@camara.leg.br
-242,Jesus Sérgio,PDT,dep.jesussergio@camara.leg.br
-243,Jhonatan de Jesus,REPUBLICANOS,dep.jhonatandejesus@camara.leg.br
-244,João Campos,REPUBLICANOS,dep.joaocampos@camara.leg.br
-245,João Carlos Bacelar,PL,dep.joaocarlosbacelar@camara.leg.br
-246,João Daniel,PT,dep.joaodaniel@camara.leg.br
-247,João Maia,PL,dep.joaomaia@camara.leg.br
-248,João Roma,PL,dep.joaoroma@camara.leg.br
-249,Joaquim Passarinho,PL,dep.joaquimpassarinho@camara.leg.br
-250,Joceval Rodrigues,CIDADANIA,dep.jocevalrodrigues@camara.leg.br
-251,Joenia Wapichana,REDE,dep.joeniawapichana@camara.leg.br
-252,Joice Hasselmann,PSDB,dep.joicehasselmann@camara.leg.br
-253,Jones Moura,PSD,dep.jonesmoura@camara.leg.br
-254,Jorge Braz,REPUBLICANOS,dep.jorgebraz@camara.leg.br
-255,Jorge Solla,PT,dep.jorgesolla@camara.leg.br
-256,José Airton Félix Cirilo,PT,dep.joseairtonfelixcirilo@camara.leg.br
-257,José Guimarães,PT,dep.joseguimaraes@camara.leg.br
-258,Jose Mario Schreiner,MDB,dep.josemarioschreiner@camara.leg.br
-259,José Medeiros,PL,dep.josemedeiros@camara.leg.br
-260,José Nelto,PP,dep.josenelto@camara.leg.br
-261,José Priante,MDB,dep.josepriante@camara.leg.br
-262,José Ricardo,PT,dep.josericardo@camara.leg.br
-263,José Rocha,UNIÃO,dep.joserocha@camara.leg.br
-264,Joseildo Ramos,PT,dep.joseildoramos@camara.leg.br
-265,Josias Gomes,PT,dep.josiasgomes@camara.leg.br
-266,Josivaldo JP,PSD,dep.josivaldojp@camara.leg.br
-267,Juarez Costa,MDB,dep.juarezcosta@camara.leg.br
-268,Julian Lemos,UNIÃO,dep.julianlemos@camara.leg.br
-269,Júlio Cesar,PSD,dep.juliocesar@camara.leg.br
-270,Julio Cesar Ribeiro,REPUBLICANOS,dep.juliocesarribeiro@camara.leg.br
-271,Júlio Delgado,PV,dep.juliodelgado@camara.leg.br
-272,Juninho do Pneu,UNIÃO,dep.juninhodopneu@camara.leg.br
-273,Junio Amaral,PL,dep.junioamaral@camara.leg.br
-274,Júnior Ferrari,PSD,dep.juniorferrari@camara.leg.br
-275,Junior Lourenço,PL,dep.juniorlourenco@camara.leg.br
-276,Júnior Mano,PL,dep.juniormano@camara.leg.br
-277,Juscelino Filho,UNIÃO,dep.juscelinofilho@camara.leg.br
-278,Kim Kataguiri,UNIÃO,dep.kimkataguiri@camara.leg.br
-279,Laercio Oliveira,PP,dep.laerciooliveira@camara.leg.br
-280,Lafayette de Andrada,REPUBLICANOS,dep.lafayettedeandrada@camara.leg.br
-281,Lauriete,PSC,dep.lauriete@camara.leg.br
-282,Lázaro Botelho,PP,dep.lazarobotelho@camara.leg.br
-283,Leandre,PSD,dep.leandre@camara.leg.br
-284,Leda Sadala,PP,dep.ledasadala@camara.leg.br
-285,Leo de Brito,PT,dep.leodebrito@camara.leg.br
-286,Léo Moraes,PODE,dep.leomoraes@camara.leg.br
-287,Léo Motta,REPUBLICANOS,dep.leomotta@camara.leg.br
-288,Leonardo Monteiro,PT,dep.leonardomonteiro@camara.leg.br
-289,Leônidas Cristino,PDT,dep.leonidascristino@camara.leg.br
-290,Leur Lomanto Júnior,UNIÃO,dep.leurlomantojunior@camara.leg.br
-291,Lídice da Mata,PSB,dep.lidicedamata@camara.leg.br
-292,Lincoln Portela,PL,dep.lincolnportela@camara.leg.br
-293,Liziane Bayer,REPUBLICANOS,dep.lizianebayer@camara.leg.br
-294,Loester Trutis,PL,dep.loestertrutis@camara.leg.br
-295,Lourival Gomes,PP,dep.lourivalgomes@camara.leg.br
-296,Lucas Follador,PSC,dep.lucasfollador@camara.leg.br
-297,Lucas Gonzalez,NOVO,dep.lucasgonzalez@camara.leg.br
-298,Lucas Redecker,PSDB,dep.lucasredecker@camara.leg.br
-299,Lucas Vergilio,SOLIDARIEDADE,dep.lucasvergilio@camara.leg.br
-300,Luciano Bivar,UNIÃO,dep.lucianobivar@camara.leg.br
-301,Luciano Ducci,PSB,dep.lucianoducci@camara.leg.br
-302,Lucio Mosquini,MDB,dep.luciomosquini@camara.leg.br
-303,Luis Miranda,REPUBLICANOS,dep.luismiranda@camara.leg.br
-304,Luis Tibé,AVANTE,dep.luistibe@camara.leg.br
-305,Luisa Canziani,PSD,dep.luisacanziani@camara.leg.br
-306,Luiz Antônio Corrêa,PP,dep.luizantoniocorrea@camara.leg.br
-307,Luiz Carlos,PSDB,dep.luizcarlos@camara.leg.br
-308,Luiz Carlos Motta,PL,dep.luizcarlosmotta@camara.leg.br
-309,Luiz Lima,PL,dep.luizlima@camara.leg.br
-310,Luiz Nishimori,PSD,dep.luiznishimori@camara.leg.br
-311,Luiz Philippe de Orleans e Bragança,PL,dep.luizphilippedeorleansebraganca@camara.leg.br
-312,Luiza Erundina,PSOL,dep.luizaerundina@camara.leg.br
-313,Luizão Goulart,SOLIDARIEDADE,dep.luizaogoulart@camara.leg.br
-314,Luizianne Lins,PT,dep.luiziannelins@camara.leg.br
-315,Magda Mofatto,PL,dep.magdamofatto@camara.leg.br
-316,Major Fabiana,PL,dep.majorfabiana@camara.leg.br
-317,Mara Rocha,MDB,dep.mararocha@camara.leg.br
-318,Marcel van Hattem,NOVO,dep.marcelvanhattem@camara.leg.br
-319,Marcelo Álvaro Antônio,PL,dep.marceloalvaroantonio@camara.leg.br
-320,Marcelo Aro,PP,dep.marceloaro@camara.leg.br
-321,Marcelo Calero,PSD,dep.marcelocalero@camara.leg.br
-322,Marcelo Freixo,PSB,dep.marcelofreixo@camara.leg.br
-323,Marcelo Moraes,PL,dep.marcelomoraes@camara.leg.br
-324,Marcelo Nilo,REPUBLICANOS,dep.marcelonilo@camara.leg.br
-325,Marcelo Ramos,PSD,dep.marceloramos@camara.leg.br
-326,Marcio Alvino,PL,dep.marcioalvino@camara.leg.br
-327,Márcio Biolchi,MDB,dep.marciobiolchi@camara.leg.br
-328,Márcio Jerry,PCdoB,dep.marciojerry@camara.leg.br
-329,Márcio Labre,PL,dep.marciolabre@camara.leg.br
-330,Márcio Macêdo,PT,dep.marciomacedo@camara.leg.br
-331,Márcio Marinho,REPUBLICANOS,dep.marciomarinho@camara.leg.br
-332,Marco Bertaiolli,PSD,dep.marcobertaiolli@camara.leg.br
-333,Marco Brasil,PP,dep.marcobrasil@camara.leg.br
-334,Marcon,PT,dep.marcon@camara.leg.br
-335,Marcos Aurélio Sampaio,PSD,dep.marcosaureliosampaio@camara.leg.br
-336,Marcos Pereira,REPUBLICANOS,dep.marcospereira@camara.leg.br
-337,Marcos Soares,UNIÃO,dep.marcossoares@camara.leg.br
-338,Margarete Coelho,PP,dep.margaretecoelho@camara.leg.br
-339,Maria do Rosário,PT,dep.mariadorosario@camara.leg.br
-340,Maria Rosas,REPUBLICANOS,dep.mariarosas@camara.leg.br
-341,Marília Arraes,SOLIDARIEDADE,dep.mariliaarraes@camara.leg.br
-342,Marina Santos,REPUBLICANOS,dep.marinasantos@camara.leg.br
-343,Mário Heringer,PDT,dep.marioheringer@camara.leg.br
-344,Mário Negromonte Jr.,PP,dep.marionegromontejr@camara.leg.br
-345,Marlon Santos,PL,dep.marlonsantos@camara.leg.br
-346,Marreca Filho,PATRIOTA,dep.marrecafilho@camara.leg.br
-347,Marx Beltrão,PP,dep.marxbeltrao@camara.leg.br
-348,Maurício Dziedricki,PODE,dep.mauriciodziedricki@camara.leg.br
-349,Mauro Benevides Filho,PDT,dep.maurobenevidesfilho@camara.leg.br
-350,Mauro Lopes,PP,dep.maurolopes@camara.leg.br
-351,Mauro Nazif,PSB,dep.mauronazif@camara.leg.br
-352,Merlong Solano,PT,dep.merlongsolano@camara.leg.br
-353,Miguel Lombardi,PL,dep.miguellombardi@camara.leg.br
-354,Milton Coelho,PSB,dep.miltoncoelho@camara.leg.br
-355,Milton Vieira,REPUBLICANOS,dep.miltonvieira@camara.leg.br
-356,Misael Varella,PSD,dep.misaelvarella@camara.leg.br
-357,Moses Rodrigues,UNIÃO,dep.mosesrodrigues@camara.leg.br
-358,Natália Bonavides,PT,dep.nataliabonavides@camara.leg.br
-359,Nelson Barbudo,PL,dep.nelsonbarbudo@camara.leg.br
-360,Nereu Crispim,PSD,dep.nereucrispim@camara.leg.br
-361,Neri Geller,PP,dep.nerigeller@camara.leg.br
-362,Neucimar Fraga,PP,dep.neucimarfraga@camara.leg.br
-363,Newton Cardoso Jr,MDB,dep.newtoncardosojr@camara.leg.br
-364,Ney Leprevost,UNIÃO,dep.neyleprevost@camara.leg.br
-365,Nicoletti,UNIÃO,dep.nicoletti@camara.leg.br
-366,Nilson Pinto,PSDB,dep.nilsonpinto@camara.leg.br
-367,Nilto Tatto,PT,dep.niltotatto@camara.leg.br
-368,Nivaldo Albuquerque,REPUBLICANOS,dep.nivaldoalbuquerque@camara.leg.br
-369,Norma Ayub,PP,dep.normaayub@camara.leg.br
-370,Odair Cunha,PT,dep.odaircunha@camara.leg.br
-371,Olival Marques,MDB,dep.olivalmarques@camara.leg.br
-372,Onyx Lorenzoni,PL,dep.onyxlorenzoni@camara.leg.br
-373,Orlando Silva,PCdoB,dep.orlandosilva@camara.leg.br
-374,Osmar Serraglio,PP,dep.osmarserraglio@camara.leg.br
-375,Osmar Terra,MDB,dep.osmarterra@camara.leg.br
-376,Ossesio Silva,REPUBLICANOS,dep.ossesiosilva@camara.leg.br
-377,Otoni de Paula,MDB,dep.otonidepaula@camara.leg.br
-378,Ottaci Nascimento,SOLIDARIEDADE,dep.ottacinascimento@camara.leg.br
-379,Otto Alencar Filho,PSD,dep.ottoalencarfilho@camara.leg.br
-380,Padre João,PT,dep.padrejoao@camara.leg.br
-381,Paes Landim,UNIÃO,dep.paeslandim@camara.leg.br
-382,Pastor Eurico,PL,dep.pastoreurico@camara.leg.br
-383,Pastor Gil,PL,dep.pastorgil@camara.leg.br
-384,Pr. Marco Feliciano,PL,dep.pr.marcofeliciano@camara.leg.br
-385,Pastor Sargento Isidório,AVANTE,dep.pastorsargentoisidorio@camara.leg.br
-386,Patrus Ananias,PT,dep.patrusananias@camara.leg.br
-387,Paula Belmonte,CIDADANIA,dep.paulabelmonte@camara.leg.br
-388,Paulão,PT,dep.paulao@camara.leg.br
-389,Paulinho da Força,SOLIDARIEDADE,dep.paulinhodaforca@camara.leg.br
-390,Paulo Abi-Ackel,PSDB,dep.pauloabiackel@camara.leg.br
-391,Paulo Azi,UNIÃO,dep.pauloazi@camara.leg.br
-392,Paulo Bengtson,PTB,dep.paulobengtson@camara.leg.br
-393,Paulo Eduardo Martins,PL,dep.pauloeduardomartins@camara.leg.br
-394,Paulo Foletto,PSB,dep.paulofoletto@camara.leg.br
-395,Paulo Freire Costa,PL,dep.paulofreirecosta@camara.leg.br
-396,Paulo Ganime,NOVO,dep.pauloganime@camara.leg.br
-397,Paulo Guedes,PT,dep.pauloguedes@camara.leg.br
-398,Paulo Magalhães,PSD,dep.paulomagalhaes@camara.leg.br
-399,Paulo Marinho Jr,PL,dep.paulomarinhojr@camara.leg.br
-400,Paulo Pimenta,PT,dep.paulopimenta@camara.leg.br
-401,Paulo Ramos,PDT,dep.pauloramos@camara.leg.br
-402,Paulo Teixeira,PT,dep.pauloteixeira@camara.leg.br
-403,Pedro Augusto Bezerra,PDT,dep.pedroaugustobezerra@camara.leg.br
-404,Pedro Augusto Palareti,PP,dep.pedroaugustopalareti@camara.leg.br
-405,Pedro Cunha Lima,PSDB,dep.pedrocunhalima@camara.leg.br
-406,Pedro Lucas Fernandes,UNIÃO,dep.pedrolucasfernandes@camara.leg.br
-407,Pedro Lupion,PP,dep.pedrolupion@camara.leg.br
-408,Pedro Paulo,PSD,dep.pedropaulo@camara.leg.br
-409,Pedro Uczai,PT,dep.pedrouczai@camara.leg.br
-410,Pedro Vilela,PSDB,dep.pedrovilela@camara.leg.br
-411,Pedro Westphalen,PP,dep.pedrowestphalen@camara.leg.br
-412,Perpétua Almeida,PCdoB,dep.perpetuaalmeida@camara.leg.br
-413,Pinheirinho,PP,dep.pinheirinho@camara.leg.br
-414,Policial Katia Sastre,PL,dep.policialkatiasastre@camara.leg.br
-415,Pompeo de Mattos,PDT,dep.pompeodemattos@camara.leg.br
-416,Professor Alcides,PL,dep.professoralcides@camara.leg.br
-417,Professor Israel Batista,PSB,dep.professorisraelbatista@camara.leg.br
-418,Professor Joziel,PATRIOTA,dep.professorjoziel@camara.leg.br
-419,Professora Dayane Pimentel,UNIÃO,dep.professoradayanepimentel@camara.leg.br
-420,Professora Marcivania,PCdoB,dep.professoramarcivania@camara.leg.br
-421,Professora Rosa Neide,PT,dep.professorarosaneide@camara.leg.br
-422,Rafael Motta,PSB,dep.rafaelmotta@camara.leg.br
-423,Raimundo Costa,PODE,dep.raimundocosta@camara.leg.br
-424,Raul Henry,MDB,dep.raulhenry@camara.leg.br
-425,Reginaldo Lopes,PT,dep.reginaldolopes@camara.leg.br
-426,Rejane Dias,PT,dep.rejanedias@camara.leg.br
-427,Renildo Calheiros,PCdoB,dep.renildocalheiros@camara.leg.br
-428,Ricardo Barros,PP,dep.ricardobarros@camara.leg.br
-429,Ricardo da Karol,PDT,dep.ricardodakarol@camara.leg.br
-430,Ricardo Guidi,PSD,dep.ricardoguidi@camara.leg.br
-431,Ricardo Izar,REPUBLICANOS,dep.ricardoizar@camara.leg.br
-432,Ricardo Silva,PSD,dep.ricardosilva@camara.leg.br
-433,Ricardo Teobaldo,PODE,dep.ricardoteobaldo@camara.leg.br
-434,Robério Monteiro,PDT,dep.roberiomonteiro@camara.leg.br
-435,Roberto Alves,REPUBLICANOS,dep.robertoalves@camara.leg.br
-436,Roberto de Lucena,REPUBLICANOS,dep.robertodelucena@camara.leg.br
-437,Rodrigo Agostinho,PSB,dep.rodrigoagostinho@camara.leg.br
-438,Rodrigo Coelho,PODE,dep.rodrigocoelho@camara.leg.br
-439,Rodrigo de Castro,UNIÃO,dep.rodrigodecastro@camara.leg.br
-440,Rogério Correia,PT,dep.rogeriocorreia@camara.leg.br
-441,Rogério Peninha Mendonça,MDB,dep.rogeriopeninhamendonca@camara.leg.br
-442,Ronaldo Carletto,PP,dep.ronaldocarletto@camara.leg.br
-443,Rosana Valle,PL,dep.rosanavalle@camara.leg.br
-444,Rosangela Gomes,REPUBLICANOS,dep.rosangelagomes@camara.leg.br
-445,Rose Modesto,UNIÃO,dep.rosemodesto@camara.leg.br
-446,RRenato Queiroz,PSD,dep.rrenatoqueiroz@camara.leg.br
-447,Rubens Bueno,CIDADANIA,dep.rubensbueno@camara.leg.br
-448,Rubens Otoni,PT,dep.rubensotoni@camara.leg.br
-449,Rubens Pereira Júnior,PT,dep.rubenspereirajunior@camara.leg.br
-450,Rui Falcão,PT,dep.ruifalcao@camara.leg.br
-451,Ruy Carneiro,PSC,dep.ruycarneiro@camara.leg.br
-452,Sâmia Bomfim,PSOL,dep.samiabomfim@camara.leg.br
-453,Samuel Moreira,PSDB,dep.samuelmoreira@camara.leg.br
-454,Sanderson,PL,dep.sanderson@camara.leg.br
-455,Sandro Alex,PSD,dep.sandroalex@camara.leg.br
-456,Sargento Alexandre,PODE,dep.sargentoalexandre@camara.leg.br
-457,Sargento Fahur,PSD,dep.sargentofahur@camara.leg.br
-458,Sebastião Oliveira,AVANTE,dep.sebastiaooliveira@camara.leg.br
-459,Sérgio Brito,PSD,dep.sergiobrito@camara.leg.br
-460,Sergio Souza,MDB,dep.sergiosouza@camara.leg.br
-461,Sergio Toledo,PV,dep.sergiotoledo@camara.leg.br
-462,Severino Pessoa,MDB,dep.severinopessoa@camara.leg.br
-463,Shéridan,PSDB,dep.sheridan@camara.leg.br
-464,Sidney Leite,PSD,dep.sidneyleite@camara.leg.br
-465,Silas Câmara,REPUBLICANOS,dep.silascamara@camara.leg.br
-466,Silvia Cristina,PL,dep.silviacristina@camara.leg.br
-467,Silvio Costa Filho,REPUBLICANOS,dep.silviocostafilho@camara.leg.br
-468,Soraya Santos,PL,dep.sorayasantos@camara.leg.br
-469,Sóstenes Cavalcante,PL,dep.sostenescavalcante@camara.leg.br
-470,Stefano Aguiar,PSD,dep.stefanoaguiar@camara.leg.br
-471,Subtenente Gonzaga,PSD,dep.subtenentegonzaga@camara.leg.br
-472,Tabata Amaral,PSB,dep.tabataamaral@camara.leg.br
-473,Tadeu Alencar,PSB,dep.tadeualencar@camara.leg.br
-474,Talíria Petrone,PSOL,dep.taliriapetrone@camara.leg.br
-475,Tereza Cristina,PP,dep.terezacristina@camara.leg.br
-476,Tereza Nelma,PSD,dep.terezanelma@camara.leg.br
-477,Tiago Andrino,PSB,dep.tiagoandrino@camara.leg.br
-478,Tiago Dimas,PODE,dep.tiagodimas@camara.leg.br
-479,Tiago Mitraud,NOVO,dep.tiagomitraud@camara.leg.br
-480,Tiririca,PL,dep.tiririca@camara.leg.br
-481,Tito,AVANTE,dep.tito@camara.leg.br
-482,Toninho Wandscheer,PROS,dep.toninhowandscheer@camara.leg.br
-483,Túlio Gadêlha,REDE,dep.tuliogadelha@camara.leg.br
-484,Uldurico Junior,MDB,dep.ulduricojunior@camara.leg.br
-485,Valmir Assunção,PT,dep.valmirassuncao@camara.leg.br
-486,Vander Loubet,PT,dep.vanderloubet@camara.leg.br
-487,Vanderlei Macris,PSDB,dep.vanderleimacris@camara.leg.br
-488,Vavá Martins,REPUBLICANOS,dep.vavamartins@camara.leg.br
-489,Vermelho,PL,dep.vermelho@camara.leg.br
-490,Vicentinho,PT,dep.vicentinho@camara.leg.br
-491,Vicentinho Júnior,PP,dep.vicentinhojunior@camara.leg.br
-492,Victor Mendes,MDB,dep.victormendes@camara.leg.br
-493,Vilson da Fetaemg,PSB,dep.vilsondafetaemg@camara.leg.br
-494,Vinicius Carvalho,REPUBLICANOS,dep.viniciuscarvalho@camara.leg.br
-495,Vinicius Farah,UNIÃO,dep.viniciusfarah@camara.leg.br
-496,Vinicius Gurgel,PL,dep.viniciusgurgel@camara.leg.br
-497,Vinicius Poit,NOVO,dep.viniciuspoit@camara.leg.br
-498,Vitor Hugo,PL,dep.vitorhugo@camara.leg.br
-499,Vitor Lippi,PSDB,dep.vitorlippi@camara.leg.br
-500,Vivi Reis,PSOL,dep.vivireis@camara.leg.br
-501,Waldenor Pereira,PT,dep.waldenorpereira@camara.leg.br
-502,Walter Alves,MDB,dep.walteralves@camara.leg.br
-503,Weliton Prado,PROS,dep.welitonprado@camara.leg.br
-504,Wellington Roberto,PL,dep.wellingtonroberto@camara.leg.br
-505,Wilson Santiago,REPUBLICANOS,dep.wilsonsantiago@camara.leg.br
-506,Wolney Queiroz,PDT,dep.wolneyqueiroz@camara.leg.br
-507,Zé Carlos,PT,dep.zecarlos@camara.leg.br
-508,Zé Neto,PT,dep.zeneto@camara.leg.br
-509,Zé Silva,SOLIDARIEDADE,dep.zesilva@camara.leg.br
-510,Zé Vitor,PL,dep.zevitor@camara.leg.br
-511,Zeca Dirceu,PT,dep.zecadirceu@camara.leg.br
+159,Eliza Virgínia,PP,dep.elizavirginia@camara.leg.br
+160,Elmar Nascimento,UNIÃO,dep.elmarnascimento@camara.leg.br
+161,Emanuel Pinheiro Neto,MDB,dep.emanuelpinheironeto@camara.leg.br
+162,Emidinho Madeira,PL,dep.emidinhomadeira@camara.leg.br
+163,Enio Verri,PT,dep.enioverri@camara.leg.br
+164,Enrico Misasi,MDB,dep.enricomisasi@camara.leg.br
+165,Erika Kokay,PT,dep.erikakokay@camara.leg.br
+166,Eros Biondini,PL,dep.erosbiondini@camara.leg.br
+167,Euclydes Pettersen,PSC,dep.euclydespettersen@camara.leg.br
+168,Evair Vieira de Melo,PP,dep.evairvieirademelo@camara.leg.br
+169,Expedito Netto,PSD,dep.expeditonetto@camara.leg.br
+170,Fábio Henrique,UNIÃO,dep.fabiohenrique@camara.leg.br
+171,Fábio Ramalho,MDB,dep.fabioramalho@camara.leg.br
+172,Fabio Reis,PSD,dep.fabioreis@camara.leg.br
+173,Fabio Schiochet,UNIÃO,dep.fabioschiochet@camara.leg.br
+174,Fábio Trad,PSD,dep.fabiotrad@camara.leg.br
+175,Fausto Pinato,PP,dep.faustopinato@camara.leg.br
+176,Felício Laterça,PP,dep.feliciolaterca@camara.leg.br
+177,Felipe Carreras,PSB,dep.felipecarreras@camara.leg.br
+178,Felipe Francischini,UNIÃO,dep.felipefrancischini@camara.leg.br
+179,Felipe Rigoni,UNIÃO,dep.feliperigoni@camara.leg.br
+180,Félix Mendonça Júnior,PDT,dep.felixmendoncajunior@camara.leg.br
+181,Fernanda Melchionna,PSOL,dep.fernandamelchionna@camara.leg.br
+182,Fernando Coelho Filho,UNIÃO,dep.fernandocoelhofilho@camara.leg.br
+183,Fernando Monteiro,PP,dep.fernandomonteiro@camara.leg.br
+184,Fernando Rodolfo,PL,dep.fernandorodolfo@camara.leg.br
+185,Filipe Barros,PL,dep.filipebarros@camara.leg.br
+186,Flávia Arruda,PL,dep.flaviaarruda@camara.leg.br
+187,Flávia Morais,PDT,dep.flaviamorais@camara.leg.br
+188,Flaviano Melo,MDB,dep.flavianomelo@camara.leg.br
+189,Flávio Nogueira,PT,dep.flavionogueira@camara.leg.br
+190,Francisco Jr.,PSD,dep.franciscojr@camara.leg.br
+191,Franco Cartafina,PP,dep.francocartafina@camara.leg.br
+192,Fred Costa,PATRIOTA,dep.fredcosta@camara.leg.br
+193,Frei Anastacio Ribeiro,PT,dep.freianastacioribeiro@camara.leg.br
+194,Gelson Azevedo,PL,dep.gelsonazevedo@camara.leg.br
+195,Genecias Noronha,PL,dep.geneciasnoronha@camara.leg.br
+196,General Girão,PL,dep.generalgirao@camara.leg.br
+197,General Peternelli,UNIÃO,dep.generalpeternelli@camara.leg.br
+198,Geninho Zuliani,UNIÃO,dep.geninhozuliani@camara.leg.br
+199,Geovania de Sá,PSDB,dep.geovaniadesa@camara.leg.br
+200,Gervásio Maia,PSB,dep.gervasiomaia@camara.leg.br
+201,Giacobo,PL,dep.giacobo@camara.leg.br
+202,Gil Cutrim,REPUBLICANOS,dep.gilcutrim@camara.leg.br
+203,Gilberto Abramo,REPUBLICANOS,dep.gilbertoabramo@camara.leg.br
+204,Gilberto Nascimento,PSC,dep.gilbertonascimento@camara.leg.br
+205,Gilson Marques,NOVO,dep.gilsonmarques@camara.leg.br
+206,Giovani Cherini,PL,dep.giovanicherini@camara.leg.br
+207,Giovani Feltes,MDB,dep.giovanifeltes@camara.leg.br
+208,Glauber Braga,PSOL,dep.glauberbraga@camara.leg.br
+209,Glaustin da Fokus,PSC,dep.glaustindafokus@camara.leg.br
+210,Gleisi Hoffmann,PT,dep.gleisihoffmann@camara.leg.br
+211,Gonzaga Patriota,PSB,dep.gonzagapatriota@camara.leg.br
+212,Greyce Elias,AVANTE,dep.greyceelias@camara.leg.br
+213,Guiga Peixoto,PSC,dep.guigapeixoto@camara.leg.br
+214,Guilherme Mussi,PP,dep.guilhermemussi@camara.leg.br
+215,Gurgel,PL,dep.gurgel@camara.leg.br
+216,Gustavo Fruet,PDT,dep.gustavofruet@camara.leg.br
+217,Gustinho Ribeiro,REPUBLICANOS,dep.gustinhoribeiro@camara.leg.br
+218,Gutemberg Reis,MDB,dep.gutembergreis@camara.leg.br
+219,Heitor Freire,UNIÃO,dep.heitorfreire@camara.leg.br
+220,Heitor Schuch,PSB,dep.heitorschuch@camara.leg.br
+221,Helder Salomão,PT,dep.heldersalomao@camara.leg.br
+222,Hélio Costa,PSD,dep.heliocosta@camara.leg.br
+223,Hélio Leite,UNIÃO,dep.helioleite@camara.leg.br
+224,Helio Lopes,PL,dep.heliolopes@camara.leg.br
+225,Henrique Fontana,PT,dep.henriquefontana@camara.leg.br
+226,Hercílio Coelho Diniz,MDB,dep.herciliocoelhodiniz@camara.leg.br
+227,Herculano Passos,REPUBLICANOS,dep.herculanopassos@camara.leg.br
+228,Hermes Parcianello,MDB,dep.hermesparcianello@camara.leg.br
+229,Hildo Rocha,MDB,dep.hildorocha@camara.leg.br
+230,Hiran Gonçalves,PP,dep.hirangoncalves@camara.leg.br
+231,Hugo Leal,PSD,dep.hugoleal@camara.leg.br
+232,Hugo Motta,REPUBLICANOS,dep.hugomotta@camara.leg.br
+233,Idilvan Alencar,PDT,dep.idilvanalencar@camara.leg.br
+234,Igor Kannário,UNIÃO,dep.igorkannario@camara.leg.br
+235,Igor Timo,PODE,dep.igortimo@camara.leg.br
+236,Isnaldo Bulhões Jr.,MDB,dep.isnaldobulhoesjr@camara.leg.br
+237,Ivan Valente,PSOL,dep.ivanvalente@camara.leg.br
+238,Jandira Feghali,PCdoB,dep.jandirafeghali@camara.leg.br
+239,Jaqueline Cassol,PP,dep.jaquelinecassol@camara.leg.br
+240,Jefferson Campos,PL,dep.jeffersoncampos@camara.leg.br
+241,Jerônimo Goergen,PP,dep.jeronimogoergen@camara.leg.br
+242,Jéssica Sales,MDB,dep.jessicasales@camara.leg.br
+243,Jesus Sérgio,PDT,dep.jesussergio@camara.leg.br
+244,Jhonatan de Jesus,REPUBLICANOS,dep.jhonatandejesus@camara.leg.br
+245,João Campos,REPUBLICANOS,dep.joaocampos@camara.leg.br
+246,João Carlos Bacelar,PL,dep.joaocarlosbacelar@camara.leg.br
+247,João Daniel,PT,dep.joaodaniel@camara.leg.br
+248,João Maia,PL,dep.joaomaia@camara.leg.br
+249,João Roma,PL,dep.joaoroma@camara.leg.br
+250,Joaquim Passarinho,PL,dep.joaquimpassarinho@camara.leg.br
+251,Joceval Rodrigues,CIDADANIA,dep.jocevalrodrigues@camara.leg.br
+252,Joenia Wapichana,REDE,dep.joeniawapichana@camara.leg.br
+253,Joice Hasselmann,PSDB,dep.joicehasselmann@camara.leg.br
+254,Jones Moura,PSD,dep.jonesmoura@camara.leg.br
+255,Jorge Braz,REPUBLICANOS,dep.jorgebraz@camara.leg.br
+256,Jorge Solla,PT,dep.jorgesolla@camara.leg.br
+257,José Airton Félix Cirilo,PT,dep.joseairtonfelixcirilo@camara.leg.br
+258,José Guimarães,PT,dep.joseguimaraes@camara.leg.br
+259,Jose Mario Schreiner,MDB,dep.josemarioschreiner@camara.leg.br
+260,José Medeiros,PL,dep.josemedeiros@camara.leg.br
+261,José Nelto,PP,dep.josenelto@camara.leg.br
+262,José Priante,MDB,dep.josepriante@camara.leg.br
+263,José Ricardo,PT,dep.josericardo@camara.leg.br
+264,José Rocha,UNIÃO,dep.joserocha@camara.leg.br
+265,Joseildo Ramos,PT,dep.joseildoramos@camara.leg.br
+266,Josias Gomes,PT,dep.josiasgomes@camara.leg.br
+267,Josivaldo JP,PSD,dep.josivaldojp@camara.leg.br
+268,Juarez Costa,MDB,dep.juarezcosta@camara.leg.br
+269,Julian Lemos,UNIÃO,dep.julianlemos@camara.leg.br
+270,Júlio Cesar,PSD,dep.juliocesar@camara.leg.br
+271,Julio Cesar Ribeiro,REPUBLICANOS,dep.juliocesarribeiro@camara.leg.br
+272,Júlio Delgado,PV,dep.juliodelgado@camara.leg.br
+273,Juninho do Pneu,UNIÃO,dep.juninhodopneu@camara.leg.br
+274,Junio Amaral,PL,dep.junioamaral@camara.leg.br
+275,Júnior Ferrari,PSD,dep.juniorferrari@camara.leg.br
+276,Junior Lourenço,PL,dep.juniorlourenco@camara.leg.br
+277,Júnior Mano,PL,dep.juniormano@camara.leg.br
+278,Juscelino Filho,UNIÃO,dep.juscelinofilho@camara.leg.br
+279,Kim Kataguiri,UNIÃO,dep.kimkataguiri@camara.leg.br
+280,Laercio Oliveira,PP,dep.laerciooliveira@camara.leg.br
+281,Lafayette de Andrada,REPUBLICANOS,dep.lafayettedeandrada@camara.leg.br
+282,Lauriete,PSC,dep.lauriete@camara.leg.br
+283,Lázaro Botelho,PP,dep.lazarobotelho@camara.leg.br
+284,Leandre,PSD,dep.leandre@camara.leg.br
+285,Leda Sadala,PP,dep.ledasadala@camara.leg.br
+286,Leo de Brito,PT,dep.leodebrito@camara.leg.br
+287,Léo Moraes,PODE,dep.leomoraes@camara.leg.br
+288,Léo Motta,REPUBLICANOS,dep.leomotta@camara.leg.br
+289,Leonardo Monteiro,PT,dep.leonardomonteiro@camara.leg.br
+290,Leônidas Cristino,PDT,dep.leonidascristino@camara.leg.br
+291,Leur Lomanto Júnior,UNIÃO,dep.leurlomantojunior@camara.leg.br
+292,Lídice da Mata,PSB,dep.lidicedamata@camara.leg.br
+293,Lincoln Portela,PL,dep.lincolnportela@camara.leg.br
+294,Liziane Bayer,REPUBLICANOS,dep.lizianebayer@camara.leg.br
+295,Loester Trutis,PL,dep.loestertrutis@camara.leg.br
+296,Lourival Gomes,PP,dep.lourivalgomes@camara.leg.br
+297,Lucas Follador,PSC,dep.lucasfollador@camara.leg.br
+298,Lucas Gonzalez,NOVO,dep.lucasgonzalez@camara.leg.br
+299,Lucas Redecker,PSDB,dep.lucasredecker@camara.leg.br
+300,Lucas Vergilio,SOLIDARIEDADE,dep.lucasvergilio@camara.leg.br
+301,Luciano Bivar,UNIÃO,dep.lucianobivar@camara.leg.br
+302,Luciano Ducci,PSB,dep.lucianoducci@camara.leg.br
+303,Lucio Mosquini,MDB,dep.luciomosquini@camara.leg.br
+304,Luis Miranda,REPUBLICANOS,dep.luismiranda@camara.leg.br
+305,Luis Tibé,AVANTE,dep.luistibe@camara.leg.br
+306,Luisa Canziani,PSD,dep.luisacanziani@camara.leg.br
+307,Luiz Antônio Corrêa,PP,dep.luizantoniocorrea@camara.leg.br
+308,Luiz Carlos,PSDB,dep.luizcarlos@camara.leg.br
+309,Luiz Carlos Motta,PL,dep.luizcarlosmotta@camara.leg.br
+310,Luiz Lima,PL,dep.luizlima@camara.leg.br
+311,Luiz Nishimori,PSD,dep.luiznishimori@camara.leg.br
+312,Luiz Philippe de Orleans e Bragança,PL,dep.luizphilippedeorleansebraganca@camara.leg.br
+313,Luiza Erundina,PSOL,dep.luizaerundina@camara.leg.br
+314,Luizão Goulart,SOLIDARIEDADE,dep.luizaogoulart@camara.leg.br
+315,Luizianne Lins,PT,dep.luiziannelins@camara.leg.br
+316,Magda Mofatto,PL,dep.magdamofatto@camara.leg.br
+317,Major Fabiana,PL,dep.majorfabiana@camara.leg.br
+318,Mara Rocha,MDB,dep.mararocha@camara.leg.br
+319,Marcel van Hattem,NOVO,dep.marcelvanhattem@camara.leg.br
+320,Marcelo Álvaro Antônio,PL,dep.marceloalvaroantonio@camara.leg.br
+321,Marcelo Aro,PP,dep.marceloaro@camara.leg.br
+322,Marcelo Calero,PSD,dep.marcelocalero@camara.leg.br
+323,Marcelo Freixo,PSB,dep.marcelofreixo@camara.leg.br
+324,Marcelo Moraes,PL,dep.marcelomoraes@camara.leg.br
+325,Marcelo Nilo,REPUBLICANOS,dep.marcelonilo@camara.leg.br
+326,Marcelo Ramos,PSD,dep.marceloramos@camara.leg.br
+327,Marcio Alvino,PL,dep.marcioalvino@camara.leg.br
+328,Márcio Biolchi,MDB,dep.marciobiolchi@camara.leg.br
+329,Márcio Jerry,PCdoB,dep.marciojerry@camara.leg.br
+330,Márcio Labre,PL,dep.marciolabre@camara.leg.br
+331,Márcio Macêdo,PT,dep.marciomacedo@camara.leg.br
+332,Márcio Marinho,REPUBLICANOS,dep.marciomarinho@camara.leg.br
+333,Marco Bertaiolli,PSD,dep.marcobertaiolli@camara.leg.br
+334,Marco Brasil,PP,dep.marcobrasil@camara.leg.br
+335,Marcon,PT,dep.marcon@camara.leg.br
+336,Marcos Aurélio Sampaio,PSD,dep.marcosaureliosampaio@camara.leg.br
+337,Marcos Pereira,REPUBLICANOS,dep.marcospereira@camara.leg.br
+338,Marcos Soares,UNIÃO,dep.marcossoares@camara.leg.br
+339,Margarete Coelho,PP,dep.margaretecoelho@camara.leg.br
+340,Maria do Rosário,PT,dep.mariadorosario@camara.leg.br
+341,Maria Rosas,REPUBLICANOS,dep.mariarosas@camara.leg.br
+342,Marília Arraes,SOLIDARIEDADE,dep.mariliaarraes@camara.leg.br
+343,Marina Santos,REPUBLICANOS,dep.marinasantos@camara.leg.br
+344,Mário Heringer,PDT,dep.marioheringer@camara.leg.br
+345,Mário Negromonte Jr.,PP,dep.marionegromontejr@camara.leg.br
+346,Marlon Santos,PL,dep.marlonsantos@camara.leg.br
+347,Marreca Filho,PATRIOTA,dep.marrecafilho@camara.leg.br
+348,Marx Beltrão,PP,dep.marxbeltrao@camara.leg.br
+349,Maurício Dziedricki,PODE,dep.mauriciodziedricki@camara.leg.br
+350,Mauro Benevides Filho,PDT,dep.maurobenevidesfilho@camara.leg.br
+351,Mauro Lopes,PP,dep.maurolopes@camara.leg.br
+352,Mauro Nazif,PSB,dep.mauronazif@camara.leg.br
+353,Merlong Solano,PT,dep.merlongsolano@camara.leg.br
+354,Miguel Lombardi,PL,dep.miguellombardi@camara.leg.br
+355,Milton Coelho,PSB,dep.miltoncoelho@camara.leg.br
+356,Milton Vieira,REPUBLICANOS,dep.miltonvieira@camara.leg.br
+357,Misael Varella,PSD,dep.misaelvarella@camara.leg.br
+358,Moses Rodrigues,UNIÃO,dep.mosesrodrigues@camara.leg.br
+359,Natália Bonavides,PT,dep.nataliabonavides@camara.leg.br
+360,Nelson Barbudo,PL,dep.nelsonbarbudo@camara.leg.br
+361,Nereu Crispim,PSD,dep.nereucrispim@camara.leg.br
+362,Neri Geller,PP,dep.nerigeller@camara.leg.br
+363,Neucimar Fraga,PP,dep.neucimarfraga@camara.leg.br
+364,Newton Cardoso Jr,MDB,dep.newtoncardosojr@camara.leg.br
+365,Ney Leprevost,UNIÃO,dep.neyleprevost@camara.leg.br
+366,Nicoletti,UNIÃO,dep.nicoletti@camara.leg.br
+367,Nilson Pinto,PSDB,dep.nilsonpinto@camara.leg.br
+368,Nilto Tatto,PT,dep.niltotatto@camara.leg.br
+369,Nivaldo Albuquerque,REPUBLICANOS,dep.nivaldoalbuquerque@camara.leg.br
+370,Norma Ayub,PP,dep.normaayub@camara.leg.br
+371,Odair Cunha,PT,dep.odaircunha@camara.leg.br
+372,Olival Marques,MDB,dep.olivalmarques@camara.leg.br
+373,Onyx Lorenzoni,PL,dep.onyxlorenzoni@camara.leg.br
+374,Orlando Silva,PCdoB,dep.orlandosilva@camara.leg.br
+375,Osmar Serraglio,PP,dep.osmarserraglio@camara.leg.br
+376,Osmar Terra,MDB,dep.osmarterra@camara.leg.br
+377,Ossesio Silva,REPUBLICANOS,dep.ossesiosilva@camara.leg.br
+378,Otoni de Paula,MDB,dep.otonidepaula@camara.leg.br
+379,Ottaci Nascimento,SOLIDARIEDADE,dep.ottacinascimento@camara.leg.br
+380,Otto Alencar Filho,PSD,dep.ottoalencarfilho@camara.leg.br
+381,Padre João,PT,dep.padrejoao@camara.leg.br
+382,Paes Landim,UNIÃO,dep.paeslandim@camara.leg.br
+383,Pastor Eurico,PL,dep.pastoreurico@camara.leg.br
+384,Pastor Gil,PL,dep.pastorgil@camara.leg.br
+385,Pr. Marco Feliciano,PL,dep.pr.marcofeliciano@camara.leg.br
+386,Pastor Sargento Isidório,AVANTE,dep.pastorsargentoisidorio@camara.leg.br
+387,Patrus Ananias,PT,dep.patrusananias@camara.leg.br
+388,Paula Belmonte,CIDADANIA,dep.paulabelmonte@camara.leg.br
+389,Paulão,PT,dep.paulao@camara.leg.br
+390,Paulinho da Força,SOLIDARIEDADE,dep.paulinhodaforca@camara.leg.br
+391,Paulo Abi-Ackel,PSDB,dep.pauloabiackel@camara.leg.br
+392,Paulo Azi,UNIÃO,dep.pauloazi@camara.leg.br
+393,Paulo Bengtson,PTB,dep.paulobengtson@camara.leg.br
+394,Paulo Eduardo Martins,PL,dep.pauloeduardomartins@camara.leg.br
+395,Paulo Foletto,PSB,dep.paulofoletto@camara.leg.br
+396,Paulo Freire Costa,PL,dep.paulofreirecosta@camara.leg.br
+397,Paulo Ganime,NOVO,dep.pauloganime@camara.leg.br
+398,Paulo Guedes,PT,dep.pauloguedes@camara.leg.br
+399,Paulo Magalhães,PSD,dep.paulomagalhaes@camara.leg.br
+400,Paulo Marinho Jr,PL,dep.paulomarinhojr@camara.leg.br
+401,Paulo Pimenta,PT,dep.paulopimenta@camara.leg.br
+402,Paulo Ramos,PDT,dep.pauloramos@camara.leg.br
+403,Paulo Teixeira,PT,dep.pauloteixeira@camara.leg.br
+404,Pedro Augusto Bezerra,PDT,dep.pedroaugustobezerra@camara.leg.br
+405,Pedro Augusto Palareti,PP,dep.pedroaugustopalareti@camara.leg.br
+406,Pedro Cunha Lima,PSDB,dep.pedrocunhalima@camara.leg.br
+407,Pedro Lucas Fernandes,UNIÃO,dep.pedrolucasfernandes@camara.leg.br
+408,Pedro Lupion,PP,dep.pedrolupion@camara.leg.br
+409,Pedro Paulo,PSD,dep.pedropaulo@camara.leg.br
+410,Pedro Uczai,PT,dep.pedrouczai@camara.leg.br
+411,Pedro Vilela,PSDB,dep.pedrovilela@camara.leg.br
+412,Pedro Westphalen,PP,dep.pedrowestphalen@camara.leg.br
+413,Perpétua Almeida,PCdoB,dep.perpetuaalmeida@camara.leg.br
+414,Pinheirinho,PP,dep.pinheirinho@camara.leg.br
+415,Policial Katia Sastre,PL,dep.policialkatiasastre@camara.leg.br
+416,Pompeo de Mattos,PDT,dep.pompeodemattos@camara.leg.br
+417,Professor Alcides,PL,dep.professoralcides@camara.leg.br
+418,Professor Israel Batista,PSB,dep.professorisraelbatista@camara.leg.br
+419,Professor Joziel,PATRIOTA,dep.professorjoziel@camara.leg.br
+420,Professora Dayane Pimentel,UNIÃO,dep.professoradayanepimentel@camara.leg.br
+421,Professora Marcivania,PCdoB,dep.professoramarcivania@camara.leg.br
+422,Professora Rosa Neide,PT,dep.professorarosaneide@camara.leg.br
+423,Rafael Motta,PSB,dep.rafaelmotta@camara.leg.br
+424,Raimundo Costa,PODE,dep.raimundocosta@camara.leg.br
+425,Raul Henry,MDB,dep.raulhenry@camara.leg.br
+426,Reginaldo Lopes,PT,dep.reginaldolopes@camara.leg.br
+427,Rejane Dias,PT,dep.rejanedias@camara.leg.br
+428,Renildo Calheiros,PCdoB,dep.renildocalheiros@camara.leg.br
+429,Ricardo Barros,PP,dep.ricardobarros@camara.leg.br
+430,Ricardo da Karol,PDT,dep.ricardodakarol@camara.leg.br
+431,Ricardo Guidi,PSD,dep.ricardoguidi@camara.leg.br
+432,Ricardo Izar,REPUBLICANOS,dep.ricardoizar@camara.leg.br
+433,Ricardo Silva,PSD,dep.ricardosilva@camara.leg.br
+434,Ricardo Teobaldo,PODE,dep.ricardoteobaldo@camara.leg.br
+435,Robério Monteiro,PDT,dep.roberiomonteiro@camara.leg.br
+436,Roberto Alves,REPUBLICANOS,dep.robertoalves@camara.leg.br
+437,Roberto de Lucena,REPUBLICANOS,dep.robertodelucena@camara.leg.br
+438,Rodrigo Agostinho,PSB,dep.rodrigoagostinho@camara.leg.br
+439,Rodrigo Coelho,PODE,dep.rodrigocoelho@camara.leg.br
+440,Rodrigo de Castro,UNIÃO,dep.rodrigodecastro@camara.leg.br
+441,Rogério Correia,PT,dep.rogeriocorreia@camara.leg.br
+442,Rogério Peninha Mendonça,MDB,dep.rogeriopeninhamendonca@camara.leg.br
+443,Ronaldo Carletto,PP,dep.ronaldocarletto@camara.leg.br
+444,Rosana Valle,PL,dep.rosanavalle@camara.leg.br
+445,Rosangela Gomes,REPUBLICANOS,dep.rosangelagomes@camara.leg.br
+446,Rose Modesto,UNIÃO,dep.rosemodesto@camara.leg.br
+447,RRenato Queiroz,PSD,dep.rrenatoqueiroz@camara.leg.br
+448,Rubens Bueno,CIDADANIA,dep.rubensbueno@camara.leg.br
+449,Rubens Otoni,PT,dep.rubensotoni@camara.leg.br
+450,Rubens Pereira Júnior,PT,dep.rubenspereirajunior@camara.leg.br
+451,Rui Falcão,PT,dep.ruifalcao@camara.leg.br
+452,Ruy Carneiro,PSC,dep.ruycarneiro@camara.leg.br
+453,Sâmia Bomfim,PSOL,dep.samiabomfim@camara.leg.br
+454,Samuel Moreira,PSDB,dep.samuelmoreira@camara.leg.br
+455,Sanderson,PL,dep.sanderson@camara.leg.br
+456,Sandro Alex,PSD,dep.sandroalex@camara.leg.br
+457,Sargento Alexandre,PODE,dep.sargentoalexandre@camara.leg.br
+458,Sargento Fahur,PSD,dep.sargentofahur@camara.leg.br
+459,Sebastião Oliveira,AVANTE,dep.sebastiaooliveira@camara.leg.br
+460,Sérgio Brito,PSD,dep.sergiobrito@camara.leg.br
+461,Sergio Souza,MDB,dep.sergiosouza@camara.leg.br
+462,Sergio Toledo,PV,dep.sergiotoledo@camara.leg.br
+463,Severino Pessoa,MDB,dep.severinopessoa@camara.leg.br
+464,Shéridan,PSDB,dep.sheridan@camara.leg.br
+465,Sidney Leite,PSD,dep.sidneyleite@camara.leg.br
+466,Silas Câmara,REPUBLICANOS,dep.silascamara@camara.leg.br
+467,Silvia Cristina,PL,dep.silviacristina@camara.leg.br
+468,Silvio Costa Filho,REPUBLICANOS,dep.silviocostafilho@camara.leg.br
+469,Soraya Santos,PL,dep.sorayasantos@camara.leg.br
+470,Sóstenes Cavalcante,PL,dep.sostenescavalcante@camara.leg.br
+471,Stefano Aguiar,PSD,dep.stefanoaguiar@camara.leg.br
+472,Subtenente Gonzaga,PSD,dep.subtenentegonzaga@camara.leg.br
+473,Tabata Amaral,PSB,dep.tabataamaral@camara.leg.br
+474,Tadeu Alencar,PSB,dep.tadeualencar@camara.leg.br
+475,Talíria Petrone,PSOL,dep.taliriapetrone@camara.leg.br
+476,Tereza Cristina,PP,dep.terezacristina@camara.leg.br
+477,Tereza Nelma,PSD,dep.terezanelma@camara.leg.br
+478,Tiago Andrino,PSB,dep.tiagoandrino@camara.leg.br
+479,Tiago Dimas,PODE,dep.tiagodimas@camara.leg.br
+480,Tiago Mitraud,NOVO,dep.tiagomitraud@camara.leg.br
+481,Tiririca,PL,dep.tiririca@camara.leg.br
+482,Tito,AVANTE,dep.tito@camara.leg.br
+483,Toninho Wandscheer,PROS,dep.toninhowandscheer@camara.leg.br
+484,Túlio Gadêlha,REDE,dep.tuliogadelha@camara.leg.br
+485,Uldurico Junior,MDB,dep.ulduricojunior@camara.leg.br
+486,Valmir Assunção,PT,dep.valmirassuncao@camara.leg.br
+487,Vander Loubet,PT,dep.vanderloubet@camara.leg.br
+488,Vanderlei Macris,PSDB,dep.vanderleimacris@camara.leg.br
+489,Vavá Martins,REPUBLICANOS,dep.vavamartins@camara.leg.br
+490,Vermelho,PL,dep.vermelho@camara.leg.br
+491,Vicentinho,PT,dep.vicentinho@camara.leg.br
+492,Vicentinho Júnior,PP,dep.vicentinhojunior@camara.leg.br
+493,Victor Mendes,MDB,dep.victormendes@camara.leg.br
+494,Vilson da Fetaemg,PSB,dep.vilsondafetaemg@camara.leg.br
+495,Vinicius Carvalho,REPUBLICANOS,dep.viniciuscarvalho@camara.leg.br
+496,Vinicius Farah,UNIÃO,dep.viniciusfarah@camara.leg.br
+497,Vinicius Gurgel,PL,dep.viniciusgurgel@camara.leg.br
+498,Vinicius Poit,NOVO,dep.viniciuspoit@camara.leg.br
+499,Vitor Hugo,PL,dep.vitorhugo@camara.leg.br
+500,Vitor Lippi,PSDB,dep.vitorlippi@camara.leg.br
+501,Vivi Reis,PSOL,dep.vivireis@camara.leg.br
+502,Waldenor Pereira,PT,dep.waldenorpereira@camara.leg.br
+503,Walter Alves,MDB,dep.walteralves@camara.leg.br
+504,Weliton Prado,PROS,dep.welitonprado@camara.leg.br
+505,Wellington Roberto,PL,dep.wellingtonroberto@camara.leg.br
+506,Wilson Santiago,REPUBLICANOS,dep.wilsonsantiago@camara.leg.br
+507,Wolney Queiroz,PDT,dep.wolneyqueiroz@camara.leg.br
+508,Zé Carlos,PT,dep.zecarlos@camara.leg.br
+509,Zé Neto,PT,dep.zeneto@camara.leg.br
+510,Zé Silva,SOLIDARIEDADE,dep.zesilva@camara.leg.br
+511,Zé Vitor,PL,dep.zevitor@camara.leg.br
+512,Zeca Dirceu,PT,dep.zecadirceu@camara.leg.br
