@@ -20,7 +20,7 @@ class SenateCrawler:
         self.search_url = self.base_url + "web/senadores/em-exercicio/-/e/por-nome"
         self.senate = []
 
-    def get_senate(self, url):
+    def get_senate(self):
         soup = BeautifulSoup(get_html(self.search_url), "html.parser")
         trs = soup.find("table").find("tbody").find_all("tr")
         for tr in trs:
@@ -36,10 +36,13 @@ class SenateCrawler:
 
     def run(self):
         try:
-            self.get_senate(self.search_url)
+            self.get_senate()
         except Exception:
             logging.exception("global failure")
         finally:
-            df = pd.DataFrame(self.senate)
-            df.to_csv("senate.csv")
-            logging.info("Senate crawler exited")
+            if len(self.senate) > 0:
+                df = pd.DataFrame(self.senate)
+                df.to_csv("senate.csv")
+                logging.info("Senate crawler exited 0")
+            else:
+                logging.info("Senate crawler exited 1")

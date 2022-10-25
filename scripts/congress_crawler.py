@@ -61,6 +61,9 @@ class CongressCrawler:
             "html.parser",
         )
         pfound = soup.find(text=re.compile(r"\d+\sencontrados"))
+        if not pfound:
+            return 0
+
         total = re.findall(r"\d{3,}", pfound)[0]
         return total
 
@@ -75,6 +78,9 @@ class CongressCrawler:
         try:
             legislature = self.get_current_legislature()
             total = self.get_total_congress(legislature)
+            if total < 1:
+                logging.error("The latest legislature's quorum for the Congress have not been informed yet")
+
             pages = round(int(total) / 25) + 1
             for i in range(1, pages):
                 self.get_congress_by_page(
@@ -87,6 +93,9 @@ class CongressCrawler:
         except Exception:
             logging.exception("global failure")
         finally:
-            df = pd.DataFrame(self.congress)
-            df.to_csv("congress.csv")
-            logging.info("Congress crawler exited")
+            if len(self.congress) > 0:
+                df = pd.DataFrame(self.congress)
+                df.to_csv("congress.csv")
+                logging.info("Congress crawler exited 0")
+            else:
+                logging.error("Congress crawler exited 1")
