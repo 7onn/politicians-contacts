@@ -79,7 +79,9 @@ class CongressCrawler:
             legislature = self.get_current_legislature()
             total = self.get_total_congress(legislature)
             if total < 1:
-                logging.error("The latest legislature's quorum for the Congress have not been informed yet")
+                logging.error(
+                    "The latest legislature's quorum for the Congress have not been informed yet"
+                )
 
             pages = round(int(total) / 25) + 1
             for i in range(1, pages):
