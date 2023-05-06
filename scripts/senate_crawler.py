@@ -1,26 +1,28 @@
 from bs4 import BeautifulSoup
 import logging
 import pandas as pd
-import csv
-import re
 import requests
 
-from urllib.parse import urljoin
 
 logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s", level=logging.INFO)
 
 
 def get_html(url):
+    """Fetch HTML content from a given URL."""
     return requests.get(url).text
 
 
 class SenateCrawler:
+    """Senate class."""
+
     def __init__(self):
+        """Place Senate-related variables."""
         self.base_url = "https://www25.senado.leg.br/"
         self.search_url = self.base_url + "web/senadores/em-exercicio/-/e/por-nome"
         self.senate = []
 
     def get_senate(self):
+        """Fetch Senatepeople's data and append them into the Senate list."""
         soup = BeautifulSoup(get_html(self.search_url), "html.parser")
         trs = soup.find("table").find("tbody").find_all("tr")
         for tr in trs:
@@ -35,6 +37,7 @@ class SenateCrawler:
                 self.senate.append(senateperson)
 
     def run(self):
+        """Start the Senate crawler."""
         try:
             self.get_senate()
         except Exception:

@@ -1,4 +1,6 @@
+"""HTML parser."""
 from bs4 import BeautifulSoup
+
 import logging
 import pandas as pd
 import re
@@ -10,11 +12,15 @@ logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s", level=loggin
 
 
 def get_html(url):
+    """Fetch HTML content from a given URL."""
     return requests.get(url).text
 
 
 class CongressCrawler:
+    """Congress class."""
+
     def __init__(self):
+        """Place Congress-related variables."""
         self.base_url = "https://www.camara.leg.br/"
         self.congress = []
         self.search_url = (
@@ -22,10 +28,15 @@ class CongressCrawler:
         )
 
     def get_congressperson_data(self, url):
+        """
+        Fetch Congresspeople's data.
+
+        And then append them into Congress list.
+        """
         try:
             soup = BeautifulSoup(get_html(url), "html.parser")
             name = soup.find(id="nomedeputado").contents[0]
-            party_state = soup.find(class_="foto-deputado__partido-estado").contents[0]
+            party_state = soup.find(class_="informacoes-deputado__inline").contents[1]
             party = re.findall(r".+?(?=\s-)", party_state)[0]
             email = soup.find(class_="email").contents[0]
 
@@ -41,10 +52,12 @@ class CongressCrawler:
             return
 
     def get_congressperson_href(self, soup):
+        """Assemble the URL for the congressperson's page."""
         for link in soup.find_all(href=re.compile(r"/deputados/\d.*")):
             yield urljoin(self.base_url, link.get("href"))
 
     def get_congress_by_page(self, url):
+        """Fetch Congressperson's data from their page."""
         logging.info(f"page: {url}")
         soup = BeautifulSoup(get_html(url), "html.parser")
         for congressperson_url in self.get_congressperson_href(soup):
@@ -52,10 +65,13 @@ class CongressCrawler:
             if congressperson:
                 self.congress.append(congressperson)
                 logging.info(
-                    f'congressperson: {congressperson_url} - email: {congressperson["email"]} - party: {congressperson["party"]}'
+                    f"congressperson: {congressperson_url} - "
+                    f' email: {congressperson["email"]} -'
+                    f' party: {congressperson["party"]}'
                 )
 
     def get_total_congress(self, legislature):
+        """Fetch the amount of active Congresspeople."""
         soup = BeautifulSoup(
             get_html(self.search_url + "&legislatura=" + legislature),
             "html.parser",
@@ -68,6 +84,7 @@ class CongressCrawler:
         return total
 
     def get_current_legislature(self):
+        """Get the current legislature number."""
         soup = BeautifulSoup(get_html(self.base_url), "html.parser")
 
         found = soup.find(text=re.compile(r"\d.*\sLegislatura"))
@@ -75,12 +92,14 @@ class CongressCrawler:
         return legislature
 
     def run(self):
+        """Start the Congress crawler."""
         try:
             legislature = self.get_current_legislature()
             total = self.get_total_congress(legislature)
-            if total < 1:
+            if int(total) < 1:
                 logging.error(
-                    "The latest legislature's quorum for the Congress have not been informed yet"
+                    "The latest legislature"
+                    "'s quorum for the Congress have not been informed yet"
                 )
 
             pages = round(int(total) / 25) + 1
