@@ -46,6 +46,6 @@ jobs:
         uses: EndBug/add-and-commit@v7
         with:
           author_name: bot
-          author_email: thom.blizz@gmail.com
+          author_email: noreply@actions.7onn.github.com
           message: 'Update politicians contact list'
           add: '*'
