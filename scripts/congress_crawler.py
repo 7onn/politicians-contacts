@@ -107,7 +107,8 @@ class CongressCrawler:
             pages = round(int(total) / 25) + 1
             for i in range(1, pages):
                 self.get_congress_by_page(
-                    self.search_url
+                    ""
+                    + self.search_url
                     + "&legislatura="
                     + legislature
                     + "&pagina="
