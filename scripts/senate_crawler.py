@@ -18,7 +18,7 @@ class SenateCrawler:
 
     def __init__(self):
         """Place Senate-related variables."""
-        self.base_url = "https://www25.senado.leg.brr/"
+        self.base_url = "https://www25.senado.leg.br/"
         self.search_url = self.base_url + "web/senadores/em-exercicio/-/e/por-nome"
         self.senate = []
 
