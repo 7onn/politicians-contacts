@@ -29,6 +29,8 @@ jobs:
           black ./scripts/
 
       - name: Run crawlers
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           python3 ./scripts/
       

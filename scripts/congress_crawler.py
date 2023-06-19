@@ -1,10 +1,12 @@
 """HTML parser."""
 from bs4 import BeautifulSoup
 
+import json
 import logging
 import pandas as pd
 import re
 import requests
+import os
 
 from urllib.parse import urljoin
 
@@ -113,6 +115,19 @@ class CongressCrawler:
                 )
         except Exception:
             logging.exception("global failure")
+            requests.post(
+                os.environ.get("SLACK_WEBHOOK_URL"),
+                json.dumps(
+                    {
+                        "channel": "#notifications",
+                        "icon_emoji": ":fire:",
+                        "text": ":warning: Brazilian congress crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
+                        "username": "politicians-contacts",
+                    }
+                ),
+                headers={"Content-Type": "application/json"},
+            )
+
         finally:
             if len(self.congress) > 0:
                 df = pd.DataFrame(self.congress)

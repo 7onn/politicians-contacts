@@ -1,8 +1,9 @@
 from bs4 import BeautifulSoup
+import json
 import logging
 import pandas as pd
 import requests
-
+import os
 
 logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s", level=logging.INFO)
 
@@ -42,6 +43,18 @@ class SenateCrawler:
             self.get_senate()
         except Exception:
             logging.exception("global failure")
+            requests.post(
+                os.environ.get("SLACK_WEBHOOK_URL"),
+                json.dumps(
+                    {
+                        "channel": "#notifications",
+                        "icon_emoji": ":fire:",
+                        "text": ":warning: Brazilian senate crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
+                        "username": "politicians-contacts",
+                    }
+                ),
+                headers={"Content-Type": "application/json"},
+            )
         finally:
             if len(self.senate) > 0:
                 df = pd.DataFrame(self.senate)
