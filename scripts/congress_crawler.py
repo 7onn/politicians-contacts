@@ -1,6 +1,8 @@
 """HTML parser."""
 from bs4 import BeautifulSoup
 
+from datetime import timedelta, datetime
+
 import json
 import logging
 import pandas as pd
@@ -87,11 +89,10 @@ class CongressCrawler:
 
     def get_current_legislature(self):
         """Get the current legislature number."""
-        soup = BeautifulSoup(get_html(self.base_url), "html.parser")
 
-        found = soup.find(text=re.compile(r"\d.*\sLegislatura"))
-        legislature = re.findall(r"\d\d", found)[0]
-        return legislature
+        date = datetime.now()
+        date -= timedelta(days=31)
+        return str((date.year - 1795) // 4)
 
     def run(self):
         """Start the Congress crawler."""
