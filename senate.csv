@@ -1,6 +1,6 @@
 ,name,party,email
 0,Alan Rick,UNIÃO,sen.alanrick@senado.leg.br
-1,Alessandro Vieira,PSDB,sen.alessandrovieira@senado.leg.br
+1,Alessandro Vieira,MDB,sen.alessandrovieira@senado.leg.br
 2,Ana Paula Lobato,PSB,sen.anapaulalobato@senado.leg.br
 3,Angelo Coronel,PSD,sen.angelocoronel@senado.leg.br
 4,Astronauta Marcos Pontes,PL,sen.astronautamarcospontes@senado.leg.br
@@ -9,8 +9,8 @@
 7,Carlos Portinho,PL,sen.carlosportinho@senado.leg.br
 8,Carlos Viana,PODEMOS,sen.carlosviana@senado.leg.br
 9,Chico Rodrigues,PSB,sen.chicorodrigues@senado.leg.br
-10,Cid Gomes,PDT,sen.cidgomes@senado.leg.br
-11,Ciro Nogueira,PP,ciro.nogueira@senado.leg.br
+10,Cid Gomes,PSB,sen.cidgomes@senado.leg.br
+11,Ciro Nogueira,PP,sen.cironogueira@senado.leg.br
 12,Cleitinho,REPUBLICANOS,sen.cleitinho@senado.leg.br
 13,Confúcio Moura,MDB,sen.confuciomoura@senado.leg.br
 14,Damares Alves,REPUBLICANOS,sen.damaresalves@senado.leg.br
@@ -60,7 +60,7 @@
 58,Paulo Paim,PT,sen.paulopaim@senado.leg.br
 59,Plínio Valério,PSDB,sen.pliniovalerio@senado.leg.br
 60,Professora Dorinha Seabra,UNIÃO,sen.professoradorinhaseabra@senado.leg.br
-61,Randolfe Rodrigues,REDE,sen.randolferodrigues@senado.leg.br
+61,Randolfe Rodrigues,S/Partido,sen.randolferodrigues@senado.leg.br
 62,Renan Calheiros,MDB,sen.renancalheiros@senado.leg.br
 63,Rodrigo Cunha,PODEMOS,sen.rodrigocunha@senado.leg.br
 64,Rodrigo Pacheco,PSD,sen.rodrigopacheco@senado.leg.br
@@ -69,7 +69,7 @@
 67,Romário,PL,sen.romario@senado.leg.br
 68,Sergio Moro,UNIÃO,sen.sergiomoro@senado.leg.br
 69,Sérgio Petecão,PSD,sen.sergiopetecao@senado.leg.br
-70,Soraya Thronicke,UNIÃO,sen.sorayathronicke@senado.leg.br
+70,Soraya Thronicke,PODEMOS,sen.sorayathronicke@senado.leg.br
 71,Styvenson Valentim,PODEMOS,sen.styvensonvalentim@senado.leg.br
 72,Teresa Leitão,PT,sen.teresaleitao@senado.leg.br
 73,Tereza Cristina,PP,sen.terezacristina@senado.leg.br

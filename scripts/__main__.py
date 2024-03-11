@@ -1,4 +1,5 @@
 """Crawler classes."""
+
 from congress_crawler import CongressCrawler
 from senate_crawler import SenateCrawler
 
