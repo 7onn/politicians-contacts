@@ -13,8 +13,7 @@ import os
 import asyncio
 from urllib.parse import urljoin
 
-logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s",
-                    level=logging.INFO)
+logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s", level=logging.INFO)
 
 
 def get_html(url):
@@ -30,8 +29,8 @@ class CongressCrawler:
         self.base_url = "https://www.camara.leg.br/"
         self.congress = []
         self.search_url = (
-            self.base_url +
-            "deputados/quem-sao/resultado?search=&partido=&uf=&sexo=")
+            self.base_url + "deputados/quem-sao/resultado?search=&partido=&uf=&sexo="
+        )
 
     async def run(self):
         """Start the Congress crawler."""
@@ -41,30 +40,37 @@ class CongressCrawler:
             if int(total) < 1:
                 logging.error(
                     "The latest legislature"
-                    "'s quorum for the Congress have not been informed yet")
+                    "'s quorum for the Congress have not been informed yet"
+                )
 
             pages = round(int(total) / 25) + 1
             tasks = []
             for i in range(1, pages):
                 tasks.append(
                     asyncio.create_task(
-                        self.get_congress_by_page(self.search_url +
-                                                  "&legislatura=" +
-                                                  legislature + "&pagina=" +
-                                                  str(i))))
+                        self.get_congress_by_page(
+                            self.search_url
+                            + "&legislatura="
+                            + legislature
+                            + "&pagina="
+                            + str(i)
+                        )
+                    )
+                )
             await asyncio.gather(*tasks)
 
         except Exception:
             logging.exception("global failure")
             requests.post(
                 os.environ.get("SLACK_WEBHOOK_URL"),
-                json.dumps({
-                    "channel": "#notifications",
-                    "icon_emoji": ":fire:",
-                    "text":
-                    ":warning: Brazilian congress crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
-                    "username": "politicians-contacts",
-                }),
+                json.dumps(
+                    {
+                        "channel": "#notifications",
+                        "icon_emoji": ":fire:",
+                        "text": ":warning: Brazilian congress crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
+                        "username": "politicians-contacts",
+                    }
+                ),
                 headers={"Content-Type": "application/json"},
             )
 
@@ -105,7 +111,10 @@ class CongressCrawler:
             tasks.append(
                 asyncio.create_task(
                     self.get_congress_person_data(
-                        urljoin(self.base_url, link.get("href")))))
+                        urljoin(self.base_url, link.get("href"))
+                    )
+                )
+            )
 
         await asyncio.gather(*tasks)
 
@@ -119,16 +128,17 @@ class CongressCrawler:
         congressperson = self.get_congress_person_data_from_page(url)
         if congressperson:
             self.congress.append(congressperson)
-            logging.info(f"congressperson: {url} - "
-                         f' email: {congressperson["email"]} -'
-                         f' party: {congressperson["party"]}')
+            logging.info(
+                f"congressperson: {url} - "
+                f' email: {congressperson["email"]} -'
+                f' party: {congressperson["party"]}'
+            )
 
     def get_congress_person_data_from_page(self, url):
         try:
             soup = BeautifulSoup(get_html(url), "html.parser")
             name = soup.find(id="nomedeputado").contents[0]
-            party_state = soup.find(
-                class_="informacoes-deputado__inline").contents[1]
+            party_state = soup.find(class_="informacoes-deputado__inline").contents[1]
             party = re.findall(r".+?(?=\s-)", party_state)[0]
             email = soup.find(class_="email").contents[0]
 

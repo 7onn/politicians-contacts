@@ -5,8 +5,7 @@ import pandas as pd
 import requests
 import os
 
-logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s",
-                    level=logging.INFO)
+logging.basicConfig(format="%(asctime)s %(levelname)s:%(message)s", level=logging.INFO)
 
 
 def get_html(url):
@@ -46,13 +45,14 @@ class SenateCrawler:
             logging.exception("global failure")
             requests.post(
                 os.environ.get("SLACK_WEBHOOK_URL"),
-                json.dumps({
-                    "channel": "#notifications",
-                    "icon_emoji": ":fire:",
-                    "text":
-                    ":warning: Brazilian senate crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
-                    "username": "politicians-contacts",
-                }),
+                json.dumps(
+                    {
+                        "channel": "#notifications",
+                        "icon_emoji": ":fire:",
+                        "text": ":warning: Brazilian senate crawler <https://github.com/7onn/politicians-contacts/actions|failed>! :fire:",
+                        "username": "politicians-contacts",
+                    }
+                ),
                 headers={"Content-Type": "application/json"},
             )
         finally:
